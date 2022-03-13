@@ -1,3 +1,5 @@
 Things i like
 
-(or)Anime(/or)
+- Anime
+- Movies
+- Songs
