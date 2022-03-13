@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Im **Alan** **Girish**, An 18 year old college student
+I spend most of my time watching anime
